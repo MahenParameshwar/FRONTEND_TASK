@@ -10,9 +10,8 @@
 
 
 ### The Task
-
+Clone The Repository
 Users should be able to:
-- Clone The Repository
 - Search for GitHub users by their username
 - See relevant user information based on their search
 - Switch between light and dark themes
