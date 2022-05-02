@@ -21,6 +21,9 @@ Users should be able to:
 - Use React and Redux and any UI library of your choice (Preferably Antd) to build the application 
 - Once Done Host the website on Netlify or any other hosting service of your choice
 
+### Duration
+12 HRS
+
 ### API
 https://api.github.com/users/$username
 
