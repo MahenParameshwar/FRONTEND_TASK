@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The Tak](#the-challenge)
+  - [The Task](#the-challenge)
   - [Screenshot](#screenshot)
 
 ## Overview
