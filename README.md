@@ -7,10 +7,9 @@
   - [Screenshot](#screenshot)
 
 ## Overview
-
+Clone The Repository
 
 ### The Task
-Clone The Repository
 Users should be able to:
 - Search for GitHub users by their username
 - See relevant user information based on their search
