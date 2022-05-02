@@ -7,7 +7,7 @@
   - [Screenshot](#screenshot)
 
 ## Overview
-https://api.github.com/users/$username
+
 
 ### The challenge
 
@@ -22,7 +22,7 @@ Users should be able to:
 - Once Done Host the website on Netlify or any other hosting service of your choice
 
 ### API
-
+https://api.github.com/users/$username
 
 ### Screenshot
 
