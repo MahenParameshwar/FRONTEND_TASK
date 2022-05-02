@@ -27,7 +27,7 @@ https://api.github.com/users/$username
 ### Screenshot
 
 ![](./screenshot.jpg)
-![](./screenshot1.jpg)
+![](./screenshot1.png)
 
 
 ### Working
