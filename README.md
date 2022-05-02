@@ -3,13 +3,13 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Tak](#the-challenge)
   - [Screenshot](#screenshot)
 
 ## Overview
 
 
-### The challenge
+### The Task
 
 Users should be able to:
 - Clone The Repository
@@ -17,7 +17,7 @@ Users should be able to:
 - See relevant user information based on their search
 - Switch between light and dark themes
 - Use React and Redux and any UI library of your choice (Preferably Antd) to build the application 
-- Once Done Host the website on Netlify or any other hosting service of your choice
+- Once Done Host the website on Netlify or any other hosting service of your choice and submit the link and codebase
 
 ### API
 https://api.github.com/users/$username
