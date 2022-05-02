@@ -11,6 +11,7 @@ Clone The Repository
 
 ### The Task
 Users should be able to:
+- Build The UI as given in the screeshots blow 
 - Search for GitHub users by their username
 - See relevant user information based on their search
 - Switch between light and dark themes
