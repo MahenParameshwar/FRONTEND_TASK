@@ -7,9 +7,15 @@
   - [Screenshot](#screenshot)
 
 ## Overview
-Clone The Repository
+
+### Note
+Clone The Repository and initialize a repository created by you
+Dont create a pr to this repository
+You must submit the link to your repository containing the code for this task
+Submit the link and codebase to techhr@convin.ai
 
 ### The Task
+
 Users should be able to:
 - Build The UI as given in the screeshots below 
 - Search for GitHub users by their username
