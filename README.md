@@ -9,9 +9,9 @@
 ## Overview
 
 ### Note
--Clone The Repository and initialize a repository created by you
--You must submit the link to your repository containing the code for this task
--Submit the link and codebase to techhr@convin.ai
+- Clone The Repository and initialize a repository created by you
+- You must submit the link to your repository containing the code for this task
+- Submit the link and codebase to techhr@convin.ai
 
 ### The Task
 
