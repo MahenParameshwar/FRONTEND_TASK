@@ -4,6 +4,8 @@ gaurang-shukla@outlook.com
 Shri Ram Murti Smarak College of engineering and technology Bareilly 
 
 Hi there i completed the Convin Front-End assignment and i am sharing the link to the hosted version and repository. Thank you for sharing this assignment it was really challenging and fun solving it. 
+Hosted version - https://dulcet-marigold-673ede.netlify.app/
+Repository - https://github.com/GaurangShukla/CONVIN-Assignment
 
 ## Table of contents
 
